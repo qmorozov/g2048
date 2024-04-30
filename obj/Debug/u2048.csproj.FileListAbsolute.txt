@@ -1,0 +1,10 @@
+C:\Users\andrm\OneDrive\Desktop\колледж\колледж3,2\ооп\кп\u2048\obj\Debug\u2048.csprojAssemblyReference.cache
+C:\Users\andrm\OneDrive\Desktop\колледж\колледж3,2\ооп\кп\u2048\obj\Debug\g2048.Main.resources
+C:\Users\andrm\OneDrive\Desktop\колледж\колледж3,2\ооп\кп\u2048\obj\Debug\u2048.csproj.GenerateResource.cache
+C:\Users\andrm\OneDrive\Desktop\колледж\колледж3,2\ооп\кп\u2048\obj\Debug\u2048.csproj.CoreCompileInputs.cache
+C:\Users\andrm\OneDrive\Desktop\колледж\колледж3,2\ооп\кп\u2048\bin\Debug\g2048 - Andrew Morozov.exe.config
+C:\Users\andrm\OneDrive\Desktop\колледж\колледж3,2\ооп\кп\u2048\bin\Debug\g2048 - Andrew Morozov.exe
+C:\Users\andrm\OneDrive\Desktop\колледж\колледж3,2\ооп\кп\u2048\bin\Debug\g2048 - Andrew Morozov.pdb
+C:\Users\andrm\OneDrive\Desktop\колледж\колледж3,2\ооп\кп\u2048\obj\Debug\g2048 - Andrew Morozov.exe
+C:\Users\andrm\OneDrive\Desktop\колледж\колледж3,2\ооп\кп\u2048\obj\Debug\g2048 - Andrew Morozov.pdb
+C:\Users\andrm\OneDrive\Desktop\колледж\колледж3,2\ооп\кп\u2048\obj\Debug\g2048.Properties.Resources.resources
